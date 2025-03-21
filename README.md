@@ -26,7 +26,7 @@ The project involves the following steps:
 
 * `MOCK_DATA.csv`: The original dataset.
 * `processed_data_DD_MM_YYYY.csv`: The processed dataset (where DD\_MM\_YYYY is the current date).
-* `project_notebook.ipynb`: The Jupyter Notebook containing the code and report.
+* `Data_Wrangling_Task_one.ipynb`: The Jupyter Notebook containing the code and report.
 * `README.md`: This file.
 
 ## Dependencies
@@ -35,13 +35,12 @@ The project involves the following steps:
 * Pandas
 * NumPy
 * SciPy
-* Requests (if downloading from URL)
 
 
 ## Usage
 
 1.  Ensure that `MOCK_DATA.csv` is in the same directory as the Jupyter Notebook or adapt the file path in the notebook.
-2.  Run the `project_notebook.ipynb` Jupyter Notebook.
+2.  Run the `Data_Wrangling_Task_one.ipynb` Jupyter Notebook.
 3.  The processed CSV file (`processed_data_DD_MM_YYYY.csv`) will be generated.
 4.  The output will be printed to the notebook's output cells.
 5.  The markdown report will be printed to the notebook's output cells.
@@ -54,6 +53,3 @@ The processed data provides insights into customer loyalty and purchase behavior
 
 Adefolasayo
 
-## License
-
-This project is licensed under the [Your License] License.
